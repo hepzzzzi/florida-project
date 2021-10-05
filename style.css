@@ -1,0 +1,83 @@
+@import url(https://fonts.googleapis.com/earlyaccess/notosanskr.css);
+@font-face { font-family: 'NotoSerifKR'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NotoSerifKR.woff') format('woff'); font-weight: normal; font-style: normal; }
+
+#wrap {
+	width: 100% margin: 0 auto;
+	font-family: "notosanskr";
+	word-break: keep-all;
+	background: url('images/intro.jpeg');
+	background-size: cover;
+	color: white;
+	text-align: center;
+}
+
+#logo {
+	width: 360px; margin: 0 auto;
+	padding: 100px 0px 50px 0px;
+}
+
+#quote {
+	width: 720px; margin: 0 auto;
+	font-family: "NotoSerifKR";
+	font-size: 24px;
+	line-height: 36px;
+}
+
+#synopsis {
+	width: 720px; margin: 0 auto;
+	font-size: 16px;
+	text-align: left;
+	padding: 30px 0;
+	line-height: 26px;
+}
+
+#video {
+	width: 720px; margin: 0 auto;
+	text-align: center;
+	padding: 30px 0 100px 0;
+}
+
+#footer {
+	background: rgba(0,0,0,0.5);
+}
+
+#watch {
+	width: 720px; margin: 0 auto;
+	text-align: center;
+	padding: 20px 0 20px 0;
+}
+
+#netflix{
+	border: 0;
+	background-color: #E50914;
+	color: white;
+	width: 180px;
+	height: 40px;
+	border-radius: 20px;
+	font-size: 16px;
+	margin: 20px 0 20px 0;
+}
+
+#kakao{
+	border: 0;
+	background-color: #ffe812;
+	color: black;
+	width: 180px;
+	height: 40px;
+	border-radius: 20px;
+	font-size: 16px;
+	margin: 0 0 20px 0;
+}
+
+#info {
+	width: 720px; margin: 0 auto;
+	font-size: 14px;
+	line-height: 24px;
+	color: white;
+	text-align: center;
+	padding: 20px 0 20px 0;
+}
+
+a {
+	color: white;
+}
